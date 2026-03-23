@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# Playwright reports
+playwright-report/
+test-results/
+
+# Optional: logs or environment variables
+*.log
+.env
+
+# MacOS system files
+.DS_Store
+
+# VSCode settings
+.vscode/
