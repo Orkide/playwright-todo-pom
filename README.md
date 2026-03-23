@@ -15,6 +15,8 @@ playwright-todo-tests/
 ├─ playwright-report/ # HTML reports
 ├─ test-results/ # Test artifacts (screenshots, videos, traces)
 
+## Test Report
+![Playwright Report](screenshots/report.png)
 
 ## Prerequisites
 - Node.js >= 18
