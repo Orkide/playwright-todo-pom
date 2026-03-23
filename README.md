@@ -16,6 +16,7 @@ playwright-todo-tests/
 ├─ test-results/ # Test artifacts (screenshots, videos, traces)
 
 ## Test Report
+Below is an example of the Playwright HTML report generated after test execution:
 ![Playwright Report](screenshots/report.png)
 
 ## Prerequisites
